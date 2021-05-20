@@ -1,6 +1,6 @@
 """Initial app framework"""
-# UserindoBot
-# Copyright (C) 2020  UserindoBot Team, <https://github.com/userbotindo/UserIndoBot.git>
+# SULTANBot
+# Copyright (C) 2020  SULTANBot Team, <https://github.com/pockybear28/UserIndoBot.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
